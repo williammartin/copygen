@@ -27,7 +27,7 @@ package models
 type Account struct {
 	ID       int
 	Name     string
-    Email    string
+        Email    string
 	Password string
 }
 
